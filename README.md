@@ -1,4 +1,3 @@
-Here's a **creative and engaging README file** for your project, complete with emojis to make it fun and user-friendly:
 
 ---
 
@@ -33,4 +32,3 @@ This project harnesses the power of **Large Language Models (LLMs)** to revoluti
 
 ---
 
-If you’d like any tweaks to the tone or content, let me know—I’m always here to help refine it to perfection! 😊
