@@ -1,5 +1,9 @@
 import streamlit as st
-import google.generativeai as genai
+try:
+    import google.generativeai as genai
+except ImportError:
+    st.error("Failed to import google-generativeai. Please make sure it's installed.")
+    st.stop()
 import json
 import os
 import time
